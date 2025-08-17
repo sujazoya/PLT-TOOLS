@@ -1,0 +1,4 @@
+run it in cmd
+
+
+pip install ezdxf
